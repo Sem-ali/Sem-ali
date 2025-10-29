@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend developer from Tchad</h3>
+<h3 align="center">A passionate Full Stack developer from Tchad</h3>
 
 - 🔭 I’m currently working on [Front-end project](https://yesilyurtarge.com/)
 
