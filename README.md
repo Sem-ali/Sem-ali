@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sem-ali/Sem-ali](https://github.com/Sem-ali/Sem-ali)
+- 👨‍💻 All of my projects are available at [https://github.com/Sem-ali/Sem-ali](https://github.com/Sem-ali)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ali-abdelkerim-sem](https://www.linkedin.com/in/ali-abdelkerim-sem)
 
