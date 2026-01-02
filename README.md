@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">I am a 25-year-old Full-stack developer based in Türkiye, skilled in JavaScript (React.js/Next.js)/h1>
 <h3 align="center">A passionate Full Stack developer from Tchad</h3>
 
-- 🔭 I’m currently working on [Front-end project](https://yesilyurtarge.com/)
+- 🔭 I’m currently working on InternShip project [Front-end project](https://yesilyurtarge.com/)
 
 - 🌱 I’m currently learning **AI**
 
