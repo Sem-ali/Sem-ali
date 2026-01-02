@@ -1,4 +1,4 @@
-<h1 align="center">I am a 25-year-old , developer based in Türkiye, skilled in JavaScript (React.js/Next.js/Note.js), PHP(Oracle SQL/ MangoBD), HTML/CSS /h1>
+<h1 align="center">I am a 25-year-old , developer based in Türkiye, skilled in JavaScript (React.js/Next.js/Note.js),/h1> <h2 PHP(Oracle SQL/ MangoBD), HTML/CSS /h2>
 <h3 align="center">A passionate Full Stack developer from Tchad</h3>
 
 - 🔭 I’m currently working on InternShip project [Front-end project](https://yesilyurtarge.com/)
