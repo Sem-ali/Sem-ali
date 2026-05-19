@@ -1,4 +1,4 @@
-<h1 align="center">I am a 25-year-old , developer based in Türkiye, skilled in JavaScript (React.js/Next.js/Note.js),</h1> 
+<h1 align="center">Hey!, I am Sem ,a web developer based in Türkiye, skilled in JavaScript (React.js/Next.js/Note.js),</h1> 
 <h2 align="center"> <i>Clouds </i> (Oracle SQL/ MangoBD), HTML/CSS </h2>
 <h3 align="center">A passionate Full Stack developer from Tchad</h3>
 
